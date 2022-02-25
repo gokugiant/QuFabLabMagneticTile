@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-02-25T12:56:44Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Magnetic tile v2"
+        },
+        "Owner": "Florian Paproth <florian@paproth.biz>",
+        "Size": {
+            "X": 60.94,
+            "Y": 39.481178
+        }
+    }
+}
